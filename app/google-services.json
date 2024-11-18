@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1042669036148",
+    "firebase_url": "https://applikasiquiz-default-rtdb.firebaseio.com",
+    "project_id": "applikasiquiz",
+    "storage_bucket": "applikasiquiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042669036148:android:78eb8991838593b252e721",
+        "android_client_info": {
+          "package_name": "com.example.applikasipertama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9MOu_4iJiKv8SmGd3AUAsgTZedVpE8G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
